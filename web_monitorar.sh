@@ -12,3 +12,6 @@ Houve um problema no servidor e os usuarios pararam de ter acesso ao conteúdo w
 del
     systemctl restart apache2
 fi
+
+
+#Adicionando a linha apenas para verificar no Github Desktop como ficaria essa atualização
